@@ -10,3 +10,10 @@ body {
     border-radius: 0;
     border: 0;
 }
+
+#logo-img {
+    background: url() no-repeat;
+    width: 150px;
+    height: 150px;
+    margin: 10px 15px 10px 0;
+}
