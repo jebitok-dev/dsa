@@ -5,3 +5,6 @@ solving data structures and algorithms using Ruby on Rails
 - Lists
 - LinkedLists
 - Queue
+- Min-Stack
+- Balanced-Brackets
+- Basic-Recursion
